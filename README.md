@@ -1,21 +1,66 @@
-# 💫 About Me:
-👋 About Me<br><br>🔭 I’m currently working on:<br>Improving backend projects, algorithm implementations, and optimizing existing codebases.<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects related to backend development, Java/Python utilities, and algorithmic problem solving.<br><br>🤝 I’m looking for help with:<br>Designing cleaner architectures, writing more scalable code, and improving system design understanding.<br><br>🌱 I’m currently learning:<br>Advanced Data Structures & Algorithms, system design fundamentals, and backend scalability concepts.<br><br>💬 Ask me about:<br>DSA, graph algorithms, Java backend development, REST APIs, and problem-solving strategies.<br><br>⚡ Fun fact:<br>I’ve solved 800+ DSA problems and enjoy optimizing solutions more than writing them the first time.👋 About Me<br><br>🔭 I’m currently working on:<br>Improving backend projects, algorithm implementations, and optimizing existing codebases.<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects related to backend development, Java/Python utilities, and algorithmic problem solving.<br><br>🤝 I’m looking for help with:<br>Designing cleaner architectures, writing more scalable code, and improving system design understanding.<br><br>🌱 I’m currently learning:<br>Advanced Data Structures & Algorithms, system design fundamentals, and backend scalability concepts.<br><br>💬 Ask me about:<br>DSA, graph algorithms, Java backend development, REST APIs, and problem-solving strategies.<br><br>⚡ Fun fact:<br>I’ve solved 800+ DSA problems and enjoy optimizing solutions more than writing them the first time.
+# 💫 About Me
+
+👋 Hi, I’m Vamshi!
+
+🔭 **I’m currently working on:**  
+Improving backend projects, algorithm implementations, and optimizing existing codebases.
+
+🤝 **I’m looking to collaborate on:**  
+Open-source projects related to backend development, Java/Python utilities, and algorithmic problem solving.
+
+🛠 **I’m looking for help with:**  
+Designing cleaner architectures, writing more scalable code, and strengthening system design fundamentals.
+
+🌱 **I’m currently learning:**  
+Advanced Data Structures & Algorithms, system design basics, and backend scalability concepts.
+
+💬 **Ask me about:**  
+DSA, graph algorithms, Java backend development, REST APIs, and problem-solving strategies.
+
+⚡ **Fun fact:**  
+I’ve solved **800+ DSA problems** and enjoy optimizing solutions more than writing them the first time.
+
+---
+
+## 🌐 Socials
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-kiran-reddy/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/vamshi_79/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/vamshi_79/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfoliovamshi.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/vamshikiranreddy)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://pinterest.com/vamshikr912) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vamshikr912) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Vamshikr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vamshikr912@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vamshikiranreddy&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vamshikiranreddy&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vamshikiranreddy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Tech Stack
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=vamshikiranreddy&theme=dark&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=vamshikiranreddy&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vamshikiranreddy&theme=dark&hide_border=true&layout=compact)
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vamshikiranreddy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vamshikiranreddy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=vamshikiranreddy&icon=0&color=0)](https://visitcount.itsvg.in)
