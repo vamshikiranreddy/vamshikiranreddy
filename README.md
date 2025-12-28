@@ -31,8 +31,8 @@ I’ve solved **800+ DSA problems** and enjoy optimizing solutions more than wri
 
 ---
 ## 📄 Resume
-[![View Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?logo=adobe&logoColor=white)](https://github.com/vamshikiranreddy/Resume/blob/main/Vamshi_Resume.pdf)
-[![Download Resume](https://img.shields.io/badge/Resume-Download-green?logo=adobe&logoColor=white)](https://raw.githubusercontent.com/vamshikiranreddy/Resume/main/Vamshi_Resume.pdf)
+[![View Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?logo=adobe&logoColor=white)](https://github.com/vamshikiranreddy/Resume/blob/main/Resume_Vamshi_.pdf)
+[![Download Resume](https://img.shields.io/badge/Resume-Download-green?logo=adobe&logoColor=white)](https://raw.githubusercontent.com/vamshikiranreddy/Resume/main/Resume_Vamshi_.pdf)
 
 ---
 
