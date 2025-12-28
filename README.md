@@ -30,6 +30,11 @@ I’ve solved **800+ DSA problems** and enjoy optimizing solutions more than wri
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/vamshikiranreddy)
 
 ---
+## 📄 Resume
+[![View Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?logo=adobe&logoColor=white)](https://github.com/vamshikiranreddy/Resume/blob/main/Vamshi_Resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Resume-Download-green?logo=adobe&logoColor=white)](https://raw.githubusercontent.com/vamshikiranreddy/Resume/main/Vamshi_Resume.pdf)
+
+---
 
 ## 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -72,11 +77,6 @@ I’ve solved **800+ DSA problems** and enjoy optimizing solutions more than wri
 - 🚗 **DriveAware AI** — Computer vision–based drowsiness detection  
 - 📚 **DSA Practice** — Algorithm implementations and patterns  
 
----
-## 📄 Resume
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?logo=adobe&logoColor=white)](https://github.com/vamshikiranreddy/Resume/blob/main/Vamshi_Resume.pdf)
-
-📄 [Download Resume (PDF)](https://raw.githubusercontent.com/vamshikiranreddy/Resume/main/Vamshi_Resume.pdf)
 ---
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=vamshikiranreddy&theme=dark&hide_border=true)
