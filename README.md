@@ -73,7 +73,11 @@ I’ve solved **800+ DSA problems** and enjoy optimizing solutions more than wri
 - 📚 **DSA Practice** — Algorithm implementations and patterns  
 
 ---
+## 📄 Resume
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?logo=adobe&logoColor=white)](https://github.com/vamshikiranreddy/Resume/blob/main/Vamshi_Resume.pdf)
 
+📄 [Download Resume (PDF)](https://raw.githubusercontent.com/vamshikiranreddy/Resume/main/Vamshi_Resume.pdf)
+---
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=vamshikiranreddy&theme=dark&hide_border=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=vamshikiranreddy&theme=dark&hide_border=true)
